@@ -9,6 +9,7 @@ const Aside = () => {
           <Link to='/Burgers'>Burgers</Link>
           <Link to='/Soup'>Soup</Link>
           <Link to='/Dessert'>Dessert</Link>
+          <Link to='/Dessert1'>Dessert1</Link>
         </nav>
       </aside>
     </>
